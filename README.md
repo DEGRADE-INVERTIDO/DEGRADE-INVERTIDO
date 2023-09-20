@@ -1,16 +1,15 @@
-### Hi there 👋
+### Espero que gostem de visitar meu perfil ✋
 
-<!--
-**DEGRADE-INVERTIDO/DEGRADE-INVERTIDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Matheus Pitta, mas pode ,me chamar de MP
 
-Here are some ideas to get you started:
+- Atualmente estudo no curso [Alura](https://www.alura.com.br)
+- Estou em busca de meu desenvolvimento no curso de linguagm JavaScript
+- Aqui eu me organizo e compartilho alguns de meus projétos já desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Caso deseje me contatar sobre algo 👌
+
+matheus.ferreira.barbosa@escola.pr.gov.br
+
+@matheuspitta
+
+![](https://media.tenor.com/ZMe398J4PoEAAAAC/ok-okay.gif)
